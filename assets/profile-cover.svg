@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-labelledby="title desc">
+  <title id="title">麦香冰 · 个人网站</title>
+  <desc id="desc">从理解问题，到做出结果。点击进入个人网站。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f3ed"/><stop offset="1" stop-color="#ebeae3"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#859690"/><stop offset="1" stop-color="#667a74"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d4d7cf" stroke-width="1" opacity=".48"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#53645b" flood-opacity=".17"/></filter>
+  </defs>
+  <rect width="1200" height="580" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="580" rx="28" fill="url(#grid)"/>
+  <circle cx="1012" cy="235" r="225" fill="#dce2d9" opacity=".8"/>
+  <circle cx="982" cy="285" r="209" fill="none" stroke="#abb8ae" opacity=".65"/>
+  <rect x="64" y="54" width="45" height="45" rx="23" fill="#738780"/>
+  <text x="86" y="83" text-anchor="middle" fill="#fff" font-size="18" font-family="Arial,sans-serif" font-weight="700">MX</text>
+  <text x="128" y="84" fill="#3c4844" font-size="23" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">麦香冰</text>
+  <text x="64" y="177" fill="#72847c" font-size="17" font-family="Arial,sans-serif" font-weight="700" letter-spacing="4">MAI XIANG BING  ·  PERSONAL SITE</text>
+  <text x="59" y="278" fill="#303936" font-size="66" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="800">从理解问题，</text>
+  <rect x="60" y="303" width="395" height="91" rx="11" fill="#d3b9af" transform="rotate(-1 60 303)"/>
+  <text x="67" y="372" fill="#4b3e3b" font-size="66" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="800">到做出结果。</text>
+  <text x="65" y="446" fill="#65716d" font-size="22" font-family="Microsoft YaHei,Arial,sans-serif">AI 创作工作流 · Agent 应用 · 数据分析 · Web 交互</text>
+  <rect x="64" y="478" width="215" height="58" rx="29" fill="#3e4b47"/>
+  <text x="171" y="516" text-anchor="middle" fill="#fff" font-size="21" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">进入个人网站  ↗</text>
+  <g filter="url(#shadow)">
+    <rect x="779" y="139" width="335" height="326" rx="18" fill="url(#card)" transform="rotate(3 779 139)"/>
+    <text x="824" y="206" fill="#e0e9e3" font-size="15" font-family="Arial,sans-serif" font-weight="700" letter-spacing="2">MY WAY OF WORKING</text>
+    <text x="828" y="294" fill="#fff" font-size="52" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">观察</text>
+    <text x="828" y="358" fill="#fff" font-size="52" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">拆解 · 行动</text>
+    <text x="828" y="422" fill="#fff" font-size="52" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">复盘</text>
+    <rect x="718" y="113" width="178" height="80" rx="12" fill="#fff" stroke="#cfd4cb" transform="rotate(-6 718 113)"/>
+    <text x="748" y="147" fill="#53645e" font-size="14" font-family="Arial,sans-serif" font-weight="700">01 / OBSERVE</text>
+    <text x="745" y="171" fill="#79857d" font-size="13" font-family="Microsoft YaHei,Arial,sans-serif">先理解真实问题</text>
+    <rect x="716" y="444" width="207" height="81" rx="12" fill="#fbfaf6" stroke="#d6d7cf" transform="rotate(5 716 444)"/>
+    <text x="744" y="478" fill="#765f58" font-size="14" font-family="Arial,sans-serif" font-weight="700">02 / MAKE</text>
+    <text x="742" y="502" fill="#79857d" font-size="13" font-family="Microsoft YaHei,Arial,sans-serif">把想法做成成果</text>
+  </g>
+</svg>
+
