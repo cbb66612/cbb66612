@@ -1,38 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-labelledby="title desc">
-  <title id="title">麦香冰 · 个人网站</title>
-  <desc id="desc">AI 产品、Agent 应用与评测方向的求职作品主页。点击进入个人网站。</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f3ed"/><stop offset="1" stop-color="#ebeae3"/></linearGradient>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#859690"/><stop offset="1" stop-color="#667a74"/></linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d4d7cf" stroke-width="1" opacity=".48"/></pattern>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#53645b" flood-opacity=".17"/></filter>
-  </defs>
-  <rect width="1200" height="580" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="580" rx="28" fill="url(#grid)"/>
-  <circle cx="1012" cy="235" r="225" fill="#dce2d9" opacity=".8"/>
-  <circle cx="982" cy="285" r="209" fill="none" stroke="#abb8ae" opacity=".65"/>
-  <rect x="64" y="54" width="45" height="45" rx="23" fill="#738780"/>
-  <text x="86" y="83" text-anchor="middle" fill="#fff" font-size="18" font-family="Arial,sans-serif" font-weight="700">MX</text>
-  <text x="128" y="84" fill="#3c4844" font-size="23" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">麦香冰</text>
-  <text x="64" y="177" fill="#72847c" font-size="17" font-family="Arial,sans-serif" font-weight="700" letter-spacing="4">MAI XIANG BING  ·  PERSONAL SITE</text>
-  <text x="59" y="278" fill="#303936" font-size="62" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="800">AI 产品 × Agent</text>
-  <rect x="60" y="303" width="438" height="91" rx="11" fill="#d3b9af" transform="rotate(-1 60 303)"/>
-  <text x="67" y="372" fill="#4b3e3b" font-size="62" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="800">从需求到验证。</text>
-  <text x="65" y="446" fill="#65716d" font-size="21" font-family="Microsoft YaHei,Arial,sans-serif">求职方向：AI 产品 · Agent 应用 · Agent 评测 · FDE</text>
-  <rect x="64" y="478" width="215" height="58" rx="29" fill="#3e4b47"/>
-  <text x="171" y="516" text-anchor="middle" fill="#fff" font-size="21" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">进入个人网站  ↗</text>
-  <g filter="url(#shadow)">
-    <rect x="779" y="139" width="335" height="326" rx="18" fill="url(#card)" transform="rotate(3 779 139)"/>
-    <text x="824" y="206" fill="#e0e9e3" font-size="15" font-family="Arial,sans-serif" font-weight="700" letter-spacing="2">FROM IDEA TO EVIDENCE</text>
-    <text x="828" y="294" fill="#fff" font-size="50" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">定义问题</text>
-    <text x="828" y="358" fill="#fff" font-size="50" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">设计流程</text>
-    <text x="828" y="422" fill="#fff" font-size="50" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">验证结果</text>
-    <rect x="718" y="113" width="178" height="80" rx="12" fill="#fff" stroke="#cfd4cb" transform="rotate(-6 718 113)"/>
-    <text x="748" y="147" fill="#53645e" font-size="14" font-family="Arial,sans-serif" font-weight="700">01 / OBSERVE</text>
-    <text x="745" y="171" fill="#79857d" font-size="13" font-family="Microsoft YaHei,Arial,sans-serif">先理解真实问题</text>
-    <rect x="716" y="444" width="207" height="81" rx="12" fill="#fbfaf6" stroke="#d6d7cf" transform="rotate(5 716 444)"/>
-    <text x="744" y="478" fill="#765f58" font-size="14" font-family="Arial,sans-serif" font-weight="700">02 / MAKE</text>
-    <text x="742" y="502" fill="#79857d" font-size="13" font-family="Microsoft YaHei,Arial,sans-serif">把想法做成成果</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">麦香冰的个人空间</title><desc id="desc">浅紫色玻璃质感的个人网站封面</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fbf9ff"/><stop offset=".56" stop-color="#f3edff"/><stop offset="1" stop-color="#fceefa"/></linearGradient><linearGradient id="orb" x2="1" y2="1"><stop stop-color="#d9bbff"/><stop offset=".5" stop-color="#8d5ce0"/><stop offset="1" stop-color="#5631b8"/></linearGradient><linearGradient id="glass" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#ffffff" stop-opacity=".43"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="45"/></filter><filter id="shadow"><feDropShadow dx="0" dy="24" stdDeviation="26" flood-color="#6b3bb0" flood-opacity=".23"/></filter></defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/><ellipse cx="980" cy="445" rx="300" ry="90" fill="#cfadff" opacity=".33" filter="url(#blur)"/><circle cx="950" cy="235" r="179" fill="none" stroke="#cdb8ed" opacity=".65"/><circle cx="950" cy="235" r="137" fill="none" stroke="#e3d4f7" opacity=".8"/><circle cx="960" cy="236" r="149" fill="url(#orb)" filter="url(#shadow)"/><ellipse cx="913" cy="174" rx="83" ry="42" transform="rotate(-29 913 174)" fill="#fff" opacity=".31" filter="url(#blur)"/><path d="M880 129c49-38 134-46 197 20" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+<rect x="788" y="331" width="231" height="72" rx="21" fill="url(#glass)" stroke="#fff" filter="url(#shadow)" transform="rotate(-6 788 331)"/><text x="814" y="370" fill="#513d7b" font-size="18" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">想法正在生长  ✦</text>
+<text x="67" y="87" fill="#7953b8" font-size="20" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">✦  麦香冰的个人空间</text><text x="65" y="205" fill="#271d42" font-size="67" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="800">一边学习，</text><text x="65" y="300" fill="#5830b4" font-size="67" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="800">一边把想法做出来。</text><text x="68" y="366" fill="#6f6580" font-size="23" font-family="Microsoft YaHei,Arial,sans-serif">AI 产品 · Agent · 评测 · FDE</text><rect x="65" y="410" width="223" height="59" rx="29" fill="#7644d7"/><text x="177" y="448" text-anchor="middle" fill="#fff" font-size="20" font-family="Microsoft YaHei,Arial,sans-serif" font-weight="700">打开个人网站  ↗</text>
 </svg>
 
