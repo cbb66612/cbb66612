@@ -17,6 +17,7 @@
 
 ### 做过的小项目
 
+- [Agent Eval · Skill 对照评测工作台](https://github.com/cbb66612/agent-eval)：用同一道题比较技能提示与通用助手，查看失败原因、版本变化和人工复核记录；[打开在线演示](https://cbb66612.github.io/agent-eval/)（预置回答示例）。
 - [创意资源与 Agent 工作台](https://github.com/cbb66612/creative-agent-showcase)：资源浏览、管理与 Agent 工具的完整应用；[打开在线界面](https://cbb66612.github.io/creative-agent-showcase/)。
 - [Spark A 股数据分析](https://github.com/cbb66612/spark-a-share-analysis)：课程中的数据清洗、分析与可视化练习。
 - [多宫格拼图工具](https://github.com/cbb66612/multi-grid-collage-netlify)：在浏览器里组合、裁切与导出图片或视频。
