@@ -1,5 +1,5 @@
 <a href="https://cbb66612.github.io/">
-  <img src="assets/profile-cover.svg" alt="麦香冰的个人网站：一边学习，一边把想法做出来" width="100%" />
+  <img src="assets/profile-cover.svg" alt="麦香冰的个人网站：实践、认识、再实践、再认识——毛泽东《实践论》" width="100%" />
 </a>
 
 ## 你好，我是麦香冰 👋
@@ -22,4 +22,3 @@
 - [多宫格拼图工具](https://github.com/cbb66612/multi-grid-collage-netlify)：在浏览器里组合、裁切与导出图片或视频。
 
 [学习笔记](https://github.com/cbb66612/ai-learning-notes)：产品、Agent、评测与 FDE 的主题卡片，会随着学习继续更新。✦
-
