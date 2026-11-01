@@ -1,28 +1,25 @@
 <a href="https://cbb66612.github.io/">
-  <img src="assets/profile-cover.svg" alt="麦香冰的求职作品主页：AI 产品、Agent 应用、Agent 评测与 FDE 方向。点击进入个人网站" width="100%" />
+  <img src="assets/profile-cover.svg" alt="麦香冰的个人网站：一边学习，一边把想法做出来" width="100%" />
 </a>
 
 ## 你好，我是麦香冰 👋
 
-我希望寻找 **AI 产品、Agent 应用与 Agent 评测**相关的机会，也在系统学习 **FDE（前线部署工程）**。我关注一件事：把模糊的需求拆成可实现的流程，再用真实输入、工具轨迹和结果检查验证它。
+最近在学习 **AI 产品、Agent、评测与 FDE**。我喜欢把一个模糊的想法拆成清楚的流程，做出可以点、可以用的小作品，再回头看看哪里还需要改。
 
-**[进入个人网站：看方向、项目与证据 ↗](https://cbb66612.github.io/)**
+[打开我的个人网站 ↗](https://cbb66612.github.io/)
 
-### 我的能力如何落到项目里
+### 最近在探索
 
-| 方向 | 我能展示的工作 | 可查看的证据 |
-| --- | --- | --- |
-| AI 产品 | 将资源浏览、搜索、详情、管理和 Agent 辅助组织成完整工作流；明确公开演示与完整应用的功能边界 | [工作台说明](https://github.com/cbb66612/creative-agent-showcase#具体功能) · [在线演示](https://cbb66612.github.io/creative-agent-showcase/) |
-| Agent 应用 | 完整 Python 应用提供 `search_library`、`open_resource`、`list_taxonomy`、`library_stats` 等资源工具 | [Agent 项目代码](https://github.com/cbb66612/creative-agent-showcase) |
-| Agent 评测 | 按预期结果、最终回复、工具调用、任务状态和成品检查分层记录，再做逐用例回归 | [评测方法说明](https://cbb66612.github.io/#evaluation) |
-| FDE 方向 | 学习把场景调研、集成、演示、验收与交接串成闭环；目前作为求职方向持续补强 | [能力与边界](https://cbb66612.github.io/#fde) |
+- **产品**：从使用场景和问题出发，整理第一版的范围与交互。
+- **Agent**：关注工具调用、上下文、状态和实际任务之间的衔接。
+- **评测**：练习逐条看结果、过程与失败样例，记录变化。
+- **FDE**：学习如何把现场问题、数据接入、交付与后续使用串起来。
 
-> 公开网页可以体验资源浏览；Agent 对话需要在仓库中运行完整 Python 应用并自行配置模型。评测方法可公开，原始内部记录未公开。FDE 是目标方向，不代表已有独立客户部署经历。
+### 做过的小项目
 
-### 其他公开项目
+- [创意资源与 Agent 工作台](https://github.com/cbb66612/creative-agent-showcase)：资源浏览、管理与 Agent 工具的完整应用；[打开在线界面](https://cbb66612.github.io/creative-agent-showcase/)。
+- [Spark A 股数据分析](https://github.com/cbb66612/spark-a-share-analysis)：课程中的数据清洗、分析与可视化练习。
+- [多宫格拼图工具](https://github.com/cbb66612/multi-grid-collage-netlify)：在浏览器里组合、裁切与导出图片或视频。
 
-- [Spark A 股数据分析](https://github.com/cbb66612/spark-a-share-analysis)：课程实验，覆盖数据治理、统计分析、风险画像、事件分析与 Web 展示。
-- [多宫格拼图工具](https://github.com/cbb66612/multi-grid-collage-netlify)：浏览器本地图片与视频拼图，包含布局、裁切与导出交互。
-
-`理解问题 → 设计流程 → 做出原型 → 验证结果`
+学习笔记也在继续整理，会从这里慢慢长出来。✦
 
