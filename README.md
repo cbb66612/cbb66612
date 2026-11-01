@@ -1,20 +1,28 @@
 <a href="https://cbb66612.github.io/">
-  <img src="assets/profile-cover.svg" alt="麦香冰的个人网站：从理解问题，到做出结果。点击进入网站" width="100%" />
+  <img src="assets/profile-cover.svg" alt="麦香冰的求职作品主页：AI 产品、Agent 应用、Agent 评测与 FDE 方向。点击进入个人网站" width="100%" />
 </a>
 
-### 你好，我是麦香冰 👋
+## 你好，我是麦香冰 👋
 
-关注 **AI 创作工作流、Agent 应用、数据分析与 Web 交互**。我喜欢从真实问题出发，把想法做成可以体验和验证的工具。
+我希望寻找 **AI 产品、Agent 应用与 Agent 评测**相关的机会，也在系统学习 **FDE（前线部署工程）**。我关注一件事：把模糊的需求拆成可实现的流程，再用真实输入、工具轨迹和结果检查验证它。
 
-**[进入个人网站 ↗](https://cbb66612.github.io/)**
+**[进入个人网站：看方向、项目与证据 ↗](https://cbb66612.github.io/)**
 
-### 公开项目
+### 我的能力如何落到项目里
 
-| 项目 | 简介 | 入口 |
+| 方向 | 我能展示的工作 | 可查看的证据 |
 | --- | --- | --- |
-| AI 创作资源工作台 | Skill、预设与 Agent 的资源探索应用 | [在线体验](https://cbb66612.github.io/creative-agent-showcase/) · [代码](https://github.com/cbb66612/creative-agent-showcase) |
-| Spark A 股数据分析 | 基于 Spark 的行情数据分析课程实验 | [查看仓库](https://github.com/cbb66612/spark-a-share-analysis) |
-| 多宫格拼图工具 | 浏览器本地处理图片与视频的可视化工具 | [查看仓库](https://github.com/cbb66612/multi-grid-collage-netlify) |
+| AI 产品 | 将资源浏览、搜索、详情、管理和 Agent 辅助组织成完整工作流；明确公开演示与完整应用的功能边界 | [工作台说明](https://github.com/cbb66612/creative-agent-showcase#具体功能) · [在线演示](https://cbb66612.github.io/creative-agent-showcase/) |
+| Agent 应用 | 完整 Python 应用提供 `search_library`、`open_resource`、`list_taxonomy`、`library_stats` 等资源工具 | [Agent 项目代码](https://github.com/cbb66612/creative-agent-showcase) |
+| Agent 评测 | 按预期结果、最终回复、工具调用、任务状态和成品检查分层记录，再做逐用例回归 | [评测方法说明](https://cbb66612.github.io/#evaluation) |
+| FDE 方向 | 学习把场景调研、集成、演示、验收与交接串成闭环；目前作为求职方向持续补强 | [能力与边界](https://cbb66612.github.io/#fde) |
 
-`观察 → 拆解 → 行动 → 复盘`
+> 公开网页可以体验资源浏览；Agent 对话需要在仓库中运行完整 Python 应用并自行配置模型。评测方法可公开，原始内部记录未公开。FDE 是目标方向，不代表已有独立客户部署经历。
+
+### 其他公开项目
+
+- [Spark A 股数据分析](https://github.com/cbb66612/spark-a-share-analysis)：课程实验，覆盖数据治理、统计分析、风险画像、事件分析与 Web 展示。
+- [多宫格拼图工具](https://github.com/cbb66612/multi-grid-collage-netlify)：浏览器本地图片与视频拼图，包含布局、裁切与导出交互。
+
+`理解问题 → 设计流程 → 做出原型 → 验证结果`
 
