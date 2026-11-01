@@ -21,5 +21,5 @@
 - [Spark A 股数据分析](https://github.com/cbb66612/spark-a-share-analysis)：课程中的数据清洗、分析与可视化练习。
 - [多宫格拼图工具](https://github.com/cbb66612/multi-grid-collage-netlify)：在浏览器里组合、裁切与导出图片或视频。
 
-学习笔记也在继续整理，会从这里慢慢长出来。✦
+[学习笔记](https://github.com/cbb66612/ai-learning-notes)：产品、Agent、评测与 FDE 的主题卡片，会随着学习继续更新。✦
 
